@@ -36,9 +36,8 @@ Java backend application for pharmacy operations management.
 
 ## 📌 Currently
 
-- 🎓 2nd year — Computer Systems Engineering @ FST Tunis (2024–2027)
-- 🛡️ External Relations Manager @ SecuriNets FST
-- 📦 Project Manager @ Enactus FST
+- 🎓 2nd year: Computer Systems Engineering @ FST Tunis (2024–2027)
+- 🛡️ Member of the Customer Experience Team at AIESEC University in Tunisia
 - 🏅 NVIDIA Deep Learning Certified
 - 🔬 IEEE Computer Society Member · IEEEXtreme 18.0 Participant
 
